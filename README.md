@@ -9,4 +9,9 @@ Installer for the game will be released soon.
 When you download the project, you will need to open GameMaker Studio and compile to install. In order to compile, you must 
 Android SDK Manager installed and the latest JRE.
 
-APK will be released soon
+# DOWNLOAD LINKS
+Windows:
+  https://drive.google.com/file/d/0B1qaNpmgat8Mb0FHWEJjSFZYeHc/view?usp=sharing
+
+Android:
+  https://drive.google.com/file/d/0B1qaNpmgat8MVERUaDkxOG1ETXM/view?usp=sharing 
